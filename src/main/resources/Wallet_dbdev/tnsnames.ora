@@ -1,0 +1,12 @@
+dbdev_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=uchy0ovduuq0pbh_dbdev_high.atp.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+dbdev_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=uchy0ovduuq0pbh_dbdev_low.atp.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+dbdev_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=uchy0ovduuq0pbh_dbdev_medium.atp.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+dbdev_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=uchy0ovduuq0pbh_dbdev_tp.atp.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+dbdev_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=uchy0ovduuq0pbh_dbdev_tpurgent.atp.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
